@@ -1,4 +1,4 @@
-## C_TCP_TO_HTTP
+## JAVA_TCP_TO_HTTP
 a simple demo of implements http use tcp proto
 
 **it will return `OK` if you run it correctly.**
